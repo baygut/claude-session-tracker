@@ -4,7 +4,7 @@ A macOS menu bar app that shows your real Claude usage limits — the same
 numbers as the **Settings → Usage** panel on claude.ai — without having to
 open a browser.
 
-![Claude Session Tracker screenshot](../screenshot.png)
+![Claude Session Tracker screenshot](./screenshot.png)
 
 ## What it shows
 
